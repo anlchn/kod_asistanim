@@ -9,8 +9,8 @@ Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak
 ## Proje kapsamı:
 **KRİTİK EŞİK Sözde Kod Mantığı:**
 
-BAŞLA
-BAŞLA
+
+    BAŞLA
     saat = 1
     DÖNGÜ (Sürekli / Sensör verisi akışı bitene kadar):
         su_seviyesi = Sensörden_Gelen_Değer(saat)
@@ -25,7 +25,7 @@ BAŞLA
     EKRANA_YAZDIR ("Tahliye Saati:", saat)
     EKRANA_YAZDIR ("Kritik Su Seviyesi:", su_seviyesi)
     BİTİR
-BİTİR
+
 
 ## Kaynakça:
 *gemini
