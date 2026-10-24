@@ -24,7 +24,7 @@ Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak
         
     EKRANA_YAZDIR ("Tahliye Saati:", saat)
     EKRANA_YAZDIR ("Kritik Su Seviyesi:", su_seviyesi)
-    BİTİR
+    BİTİRr
 
 
 ## Kaynakça:
