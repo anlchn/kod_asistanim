@@ -8,7 +8,7 @@ Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak
 * Veri analizleri yapmak.
 ## Proje kapsamı:
 **KRİTİK EŞİK Sözde Kod Mantığı:**
-
+BAŞLA
     saat = 1
     DÖNGÜ (Sürekli / Sensör verisi akışı bitene kadar):
         su_seviyesi = Sensörden_Gelen_Değer(saat)
