@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="uygulama_7"/>
+        <attribute name="authors" value="anilc"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-10-24 12:04:01 &#214;S"/>
+        <attribute name="created" value="YW5pbGM7REVTS1RPUC00R0JRMEJEOzIwMjYtMTAtMjQ7MTI6MDI6MDYgw5ZTOzI5NjY="/>
+        <attribute name="edited" value="YW5pbGM7REVTS1RPUC00R0JRMEJEOzIwMjYtMTAtMjQ7MTI6MDQ6MDEgw5ZTOzE7MzA3MQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <input variable="isim"/>
+            <input variable="soyisim"/>
+            <assign variable="sonuc" expression="&quot;merhaba&quot;+isim+soyisim"/>
+            <output expression="sonuc" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
