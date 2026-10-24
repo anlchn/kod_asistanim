@@ -28,5 +28,5 @@ Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak
 
 
 ## Kaynakça:
-*gemini
-*ders kitabı
+* Gemini
+* Ders kitabı
