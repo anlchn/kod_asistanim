@@ -7,7 +7,7 @@ Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak
 * Akıllı menüler oluşturmak.
 * Veri analizleri yapmak.
 ## Proje kapsamı:
-
+**KRİTİK EŞİK Sözde Kod Mantığı:**
 BAŞLA
     saat = 1
     DÖNGÜ (Sürekli / Sensör verisi akışı bitene kadar):
