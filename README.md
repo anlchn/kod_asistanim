@@ -2,9 +2,9 @@ Proje Yazarı: Anıl çahan
 # Projenin Adı: Kod-Asistan v0.1
 ## Projenin Amacı: Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak bir dijital asistan tasarlamak
 ## Projenin Hedefleri: 
-** Güvelik önlemlerini arttırmak.
-** Akıllı menüler oluşturmak.
-** Veri analizleri yapmak.
+* Güvelik önlemlerini arttırmak.
+* Akıllı menüler oluşturmak.
+* Veri analizleri yapmak.
 ## Proje kapsamı:
 BAŞLA
     saat = 1
@@ -24,5 +24,5 @@ BAŞLA
 BİTİR
 
 ## Kaynakça:
-gemini
-ders kitabı
+*gemini
+*ders kitabı
